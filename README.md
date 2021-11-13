@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... CSS dam css i hate it
-
 
 <!--
 **fengdotdev/fengdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
